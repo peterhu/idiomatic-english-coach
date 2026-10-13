@@ -50,6 +50,10 @@
 | 1 | 学习方法 | `found a new idea` → `had a lightbulb moment` |
 | 2 | UART 排障 | 乱码 → `garbled text`，折腾 → `mess around with`，皇天不负有心人 → `pay off` |
 | 3 | 失眠 | `slept late` ≠ 失眠 → `couldn't sleep`，辗转反侧 → `toss and turn` |
+| 4 | AI 时代 | `Although... but...` 陷阱、`get laid off`、`high agency` |
+| 5 | 车库门 AI | `sort it out`、`pull up to`、`get my hands on it` |
+| 6 | 面试候选人 | `draw a blank`、`feel for her`、`cut her some slack` |
+| 7 | 自我反思 | `knee-jerk reaction`、`love to lecture` |
 
 ## 适合谁
 
